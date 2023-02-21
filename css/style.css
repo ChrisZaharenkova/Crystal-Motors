@@ -959,6 +959,9 @@ background: #969696;
   .partners{
     padding: 0 0 80px 0;
   }
+  .hidden-item {
+    opacity: 1;
+  }
 }
 @media(max-width:479px){
   .partners__item{
